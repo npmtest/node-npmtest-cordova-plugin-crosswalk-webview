@@ -1,0 +1,38 @@
+<svg height="558" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="558" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-19 01:56:18 +0000    98068 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 01:56:18 +0000    13106 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 01:56:18 +0000      259 bytes  NOTICE</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 01:56:18 +0000      949 bytes  PlatformScriptsWorkflow.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 01:56:18 +0000     7873 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 01:56:18 +0000      462 bytes  hooks/after_build/000-build_64_bit.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-19 01:56:18 +0000      469 bytes  hooks/after_plugin_install/000-shared_mode_speci\</tspan>
+<tspan x="10" y="138">al.js</tspan>
+<tspan x="10" y="154">  7.  2017-04-19 01:56:18 +0000      463 bytes  hooks/before_build/000-build_64_bit.js</tspan>
+<tspan x="10" y="170">  8.  2017-04-19 01:56:18 +0000      464 bytes  hooks/before_plugin_uninstall/000-shared_mode_sp\</tspan>
+<tspan x="10" y="186">ecial.js</tspan>
+<tspan x="10" y="202">  9.  2017-04-19 01:56:18 +0000     8638 bytes  hooks/update_config.js</tspan>
+<tspan x="10" y="218"> 10.  2017-04-19 01:56:18 +0000     3369 bytes  package.json</tspan>
+<tspan x="10" y="234"> 11.  2017-04-19 01:56:18 +0000     2697 bytes  platforms/android/src/org/crosswalk/engine/XWalk\</tspan>
+<tspan x="10" y="250">CordovaClientCertRequest.java</tspan>
+<tspan x="10" y="266"> 12.  2017-04-19 01:56:18 +0000     1688 bytes  platforms/android/src/org/crosswalk/engine/XWalk\</tspan>
+<tspan x="10" y="282">CordovaCookieManager.java</tspan>
+<tspan x="10" y="298"> 13.  2017-04-19 01:56:18 +0000     1779 bytes  platforms/android/src/org/crosswalk/engine/XWalk\</tspan>
+<tspan x="10" y="314">CordovaHttpAuthHandler.java</tspan>
+<tspan x="10" y="330"> 14.  2017-04-19 01:56:18 +0000     6691 bytes  platforms/android/src/org/crosswalk/engine/XWalk\</tspan>
+<tspan x="10" y="346">CordovaResourceClient.java</tspan>
+<tspan x="10" y="362"> 15.  2017-04-19 01:56:18 +0000     8565 bytes  platforms/android/src/org/crosswalk/engine/XWalk\</tspan>
+<tspan x="10" y="378">CordovaUiClient.java</tspan>
+<tspan x="10" y="394"> 16.  2017-04-19 01:56:18 +0000     5234 bytes  platforms/android/src/org/crosswalk/engine/XWalk\</tspan>
+<tspan x="10" y="410">CordovaView.java</tspan>
+<tspan x="10" y="426"> 17.  2017-04-19 01:56:18 +0000     2016 bytes  platforms/android/src/org/crosswalk/engine/XWalk\</tspan>
+<tspan x="10" y="442">ExposedJsApi.java</tspan>
+<tspan x="10" y="458"> 18.  2017-04-19 01:56:18 +0000     9761 bytes  platforms/android/src/org/crosswalk/engine/XWalk\</tspan>
+<tspan x="10" y="474">FileChooser.java</tspan>
+<tspan x="10" y="490"> 19.  2017-04-19 01:56:18 +0000    13746 bytes  platforms/android/src/org/crosswalk/engine/XWalk\</tspan>
+<tspan x="10" y="506">WebViewEngine.java</tspan>
+<tspan x="10" y="522"> 20.  2017-04-19 01:56:18 +0000     5795 bytes  platforms/android/xwalk.gradle</tspan>
+<tspan x="10" y="538"> 21.  2017-04-19 01:56:18 +0000     4044 bytes  plugin.xml</tspan>
+</text>
+</svg>
