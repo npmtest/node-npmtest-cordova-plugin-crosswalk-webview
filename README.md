@@ -1,6 +1,6 @@
 # npmtest-cordova-plugin-crosswalk-webview
 
-#### test coverage for  [cordova-plugin-crosswalk-webview (v2.3.0)](https://github.com/crosswalk-project/cordova-plugin-crosswalk-webview)  [![npm package](https://img.shields.io/npm/v/npmtest-cordova-plugin-crosswalk-webview.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cordova-plugin-crosswalk-webview) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cordova-plugin-crosswalk-webview.svg)](https://travis-ci.org/npmtest/node-npmtest-cordova-plugin-crosswalk-webview)
+#### basic test coverage for  [cordova-plugin-crosswalk-webview (v2.3.0)](https://github.com/crosswalk-project/cordova-plugin-crosswalk-webview)  [![npm package](https://img.shields.io/npm/v/npmtest-cordova-plugin-crosswalk-webview.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cordova-plugin-crosswalk-webview) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cordova-plugin-crosswalk-webview.svg)](https://travis-ci.org/npmtest/node-npmtest-cordova-plugin-crosswalk-webview)
 
 #### Changes the default WebView to CrossWalk
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-cordova-plugin-crosswalk-webview/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-cordova-plugin-crosswalk-webview/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-cordova-plugin-crosswalk-webview/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-cordova-plugin-crosswalk-webview/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-cordova-plugin-crosswalk-webview/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-cordova-plugin-crosswalk-webview/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-cordova-plugin-crosswalk-webview/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-cordova-plugin-crosswalk-webview/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-cordova-plugin-crosswalk-webview/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-cordova-plugin-crosswalk-webview/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-cordova-plugin-crosswalk-webview/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-cordova-plugin-crosswalk-webview/build/coverage.html/index.html)
 
@@ -105,7 +105,8 @@
         "url": "git+https://github.com/crosswalk-project/cordova-plugin-crosswalk-webview.git"
     },
     "scripts": {},
-    "version": "2.3.0"
+    "version": "2.3.0",
+    "bin": {}
 }
 ```
 
